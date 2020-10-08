@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.sass"],"names":[],"mappings":"AAAA,KACE,QAAS,CAAG,EAEZ,oBAAqB,CAAG,SAExB,aAAc,CAAG,EAEjB,UAAY,CACZ,cAAe,CACf,QAAS","file":"main.6f69c0b0.chunk.css","sourcesContent":["body {\n  margin: 0; }\na {\n  text-decoration: none; }\na:active {\n  color: #f44336; }\np {\n  color: white;\n  font-size: 20px;\n  margin: 0; }\n"]}
